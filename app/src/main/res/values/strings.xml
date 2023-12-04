@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="warning_message">WELCOME</string>
+    <string name="warning_accept">GET STARTED</string>
+    <string name="remove_allergy">Remove</string>
+    <string name="allergy_input_hint">Type allergy here</string>
+    <string name="add_allergy_button_text">Add</string>
+    <string name="scan_label_button_text">Scan Label</string>
+    <string name="contact_email_subject">Ingredients Scanner Inquiry</string>
+    <string name="about_allergy_app">Allergy Scanner is an Android app that allows people with allergies to easily check food ingredient labels with their phone.\n\n
+    Instrcutions:\n
+    1. enter your allergy into the text field by tapping on Type allergy here.\n
+    3. click the green ADD button to the right of where you entered your allergy.\n
+    4. To delete an allergy from the list, tap and hold on it.\n
+    5. Click on Scan Label to allow this app to access your device camera\n
+    6. Point your device camera at a food ingredient label.\n
+    \ta. ingredients contained in your allergy list show up in red (detected allergy).\n</string>
+</resources>
